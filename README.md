@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[SAP S/4HANA](https://www.sap.com/products/erp/s4hana.html)**  
-
-  Flagship enterprise ERP from SAP, offering real-time in-memory processing, deep industry functionality, and global scalability for large and complex organizations.
-
-
-
-- **[Oracle NetSuite](https://www.netsuite.com/)**  
-
-  Leading cloud ERP suite covering financials, inventory, order management, CRM, and e-commerce, widely adopted by growing mid-market and multi-subsidiary companies.
-
-
-
-- **[Microsoft Dynamics 365 Business Central](https://www.microsoft.com/en-us/dynamics-365/products/business-central)**  
-
-  Cloud ERP tightly integrated with the Microsoft ecosystem (Office 365, Power Platform, Teams), popular with SMBs and mid-market organizations.
-
-
-
-- **[Odoo (Enterprise)](https://www.odoo.com/)**  
-
-  Modular business suite (open-source core + paid enterprise apps) covering CRM, accounting, inventory, manufacturing, e-commerce, and more.
-
-
-
-- **[Acumatica](https://www.acumatica.com/)**  
-
-  Cloud-native mid-market ERP known for flexible licensing, strong manufacturing and distribution capabilities, and consumption-based pricing options.
-
-
-
-- **[Sage Intacct](https://www.sage.com/en-us/sage-intacct/)**  
-
-  Best-in-class cloud financial management and accounting platform, often used as a core financials system or paired with operational ERPs.
-
-
-
-- **[Epicor ERP (Kinetic)](https://www.epicor.com/)**  
-
-  Industry-focused ERP strong in manufacturing, distribution, and supply chain, with deep vertical functionality.
-
-
-
-- **[IFS Cloud](https://www.ifs.com/)**  
-
-  Enterprise ERP and asset management platform particularly strong in asset-intensive industries, service, and project-centric businesses.
-
-
-
-- **[Infor CloudSuite](https://www.infor.com/)**  
-
-  Industry-specialized cloud ERP suites covering manufacturing, distribution, healthcare, and other verticals.
-
-
-
-- **[SYSPRO](https://www.syspro.com/)**  
-
-  ERP solution focused on manufacturers and distributors, offering strong inventory, production, and supply-chain capabilities.
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[SAP S/4HANA](https://www.sap.com/products/erp/s4hana.html)** | Flagship enterprise ERP offering real-time in-memory processing, deep industry functionality, and global scalability for large organizations. | Starts at **~$180–$217/user/month** (GROW with SAP Public Edition base tier; typically 15-user minimum commitment). | **30-day free trial** (pre-configured cloud sandbox with sample enterprise data and guided business flows; no custom data import). |
+| **[Oracle NetSuite](https://www.netsuite.com/)** | Cloud ERP suite covering financials, inventory, order management, CRM, and multi-subsidiary management for mid-market and enterprise companies. | Starts at **$999/month** base platform fee + **$99/user/month** for full-access named user licenses. | **14-day free trial / guided demo sandbox** available through authorized partners (pre-configured workflows; no open self-service sign-up). |
+| **[Microsoft Dynamics 365 Business Central](https://www.microsoft.com/en-us/dynamics-365/products/business-central)** | Cloud ERP tightly integrated with Microsoft 365, Power Platform, and Teams for small and mid-market organizations. | Starts at **$80/user/month** (Essentials tier; Team Members at $8/user/month, Premium at $110/user/month). | **30-day free trial** (extendable for an additional 30 days; full access to Cronus sample database and test company setup). |
+| **[Odoo (Enterprise / Online)](https://www.odoo.com/)** | Modular business suite covering CRM, accounting, inventory, manufacturing, and e-commerce. | Starts at **$24.90/user/month** (Standard plan billed annually) or **$31.10/user/month** (monthly); Custom plan from **$37.40/user/month**. | **Free forever plan** on "One App Free" tier for unlimited users (limited strictly to 1 installed app on Odoo Online SaaS); **15-day free trial** for full multi-app suite. |
+| **[Acumatica](https://www.acumatica.com/)** | Cloud-native ERP known for flexible licensing, strong manufacturing and distribution capabilities, and consumption-based resource scaling. | Starts at **~$533/month** (~$6,396/year entry package for core financials and baseline transaction volume tiers). | **14 to 30-day evaluation tenant** via certified partners (limited to 2 concurrent users, watermarked report outputs; no direct public trial). |
+| **[Sage Intacct](https://www.sage.com/en-us/sage-intacct/)** | Cloud financial management and accounting platform, often used as a core financial system or paired with operational ERPs. | Starts at **~$750–$1,000/month** (~$9,000–$12,000/year base package including core financials and initial named user). | **30-day free trial / interactive test environment** via sales or partner request (pre-loaded demo datasets and financial reports). |
+| **[Epicor ERP (Kinetic)](https://www.epicor.com/)** | Industry-focused ERP strong in manufacturing, distribution, and supply chain with deep vertical functionality. | Starts at **~$100–$150/user/month** (plus **~$1,500/month** base platform fee; typically 5-user minimum commitment). | **Guided interactive product tour & partner demo** on request (no public self-service free trial; evaluation environments provisioned via sales). |
+| **[IFS Cloud](https://www.ifs.com/)** | Enterprise ERP, field service, and asset management platform for asset-intensive, service, and project-centric industries. | Starts at **~$110–$250/user/month** (or asset-based pricing for Industrial AI solutions depending on operational scope). | **Custom proof-of-concept sandbox** on request via sales evaluation (no open self-service free trial). |
+| **[Infor CloudSuite](https://www.infor.com/)** | Industry-specialized cloud ERP suites covering discrete/process manufacturing, distribution, and public sector. | Starts at **~$150–$225/user/month** (depending on vertical CloudSuite edition; multi-user annual agreement required). | **Interactive guided tour & evaluation environment** on request through Infor partners (no standalone open free trial). |
+| **[SYSPRO](https://www.syspro.com/)** | ERP solution focused on manufacturers and distributors, offering strong inventory, production, and supply-chain capabilities. | Starts at **~$75–$150/user/month** for cloud named-user subscriptions. | **Guided interactive demo sandbox** available through certified partners on request (no self-serve free trial). |
 
 
 

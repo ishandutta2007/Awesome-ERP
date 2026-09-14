@@ -114,6 +114,10 @@ Explore the top open-source ERP systems, frameworks, and business management eng
     📦 *Java / Groovy / Elasticsearch / Vue.js (CC0-1.0 / Apache-2.0)*  
     High-performance enterprise framework and modular ERP ecosystem with a standard Universal Business Data Model for multi-facility warehousing, order processing, and financials.
 
+15. **[OpenBooks](https://github.com/braedonsaunders/openbooks)** [![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/openbooks?style=social&color=white)](https://github.com/braedonsaunders/openbooks/stargazers)  
+    📦 *TypeScript / PostgreSQL (AGPL-3.0)*  
+    Accounting-first self-hosted ERP with a PostgreSQL-enforced double-entry ledger, multi-entity support, job costing, invoices, bills, inventory, approvals, and audit trail.
+
 ---
 
 ## 🧩 ERP Architectural Capabilities & Modules
